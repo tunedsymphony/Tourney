@@ -81,5 +81,4 @@ cargo run -- --max 100 --min 200
 ```
 This will cause a `panic!` since `min > max`.
 
-# Acknowledgements
-The creation of this project was inspired by [this video](https://www.youtube.com/watch?v=mScpHTIi-kM).
+
